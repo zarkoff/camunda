@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 04 17:49:08 CEST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1656949748063
+allow-parent-pom-resolving-when-snapshot/.error=Could not transfer artifact org.camunda\:camunda-bpm-release-parent\:pom\:2.2.1 from/to fix-maven-snapshots-issue-with-nexus (allow-parent-pom-resolving-when-snapshot)\: Cannot access allow-parent-pom-resolving-when-snapshot with type default using the available connector factories\: BasicRepositoryConnectorFactory
+@default-fix-maven-snapshots-issue-with-nexus-allow-parent-pom-resolving-when-snapshot/.lastUpdated=1656949748007
